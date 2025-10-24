@@ -35,8 +35,8 @@ ShopLeadAI™ builds the intelligence layer between humans and automated systems
 
 ## 🧩 Contact & Access
 
-🌍 [shop-lead.ai](https://shoplead.ai)  
-📧 [hello@shoplead.ai](mailto:hello@shop-lead.ai)  
+🌍 [shoplead.ai](https://shoplead.ai)  
+📧 [hello@shoplead.ai](mailto:hello@shoplead.ai)  
 🐙 GitHub: [ShopLeadAI](https://github.com/ShopLeadAI)  
 
 ---
