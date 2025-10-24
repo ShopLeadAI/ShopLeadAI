@@ -23,8 +23,8 @@ Until then — proprietary and confidential.
 
 ## ™ Trademark & Branding
 - **Trademark:** ShopLeadAI™ (EUIPO pending, Class 42 — AI software & SaaS)
-- **Domains:** [shoplead.ai](https://shop-lead.ai), [shopleadai.com](https://shopleadai.com)
-- **Official Email:** [hello@shoplead.ai](mailto:hello@shop-lead.ai)
+- **Domains:** [shoplead.ai](https://shoplead.ai), [shopleadai.com](https://shopleadai.com)
+- **Official Email:** [hello@shoplead.ai](mailto:hello@shoplead.ai)
 
 Unauthorized commercial or visual use of the name or logo is prohibited.
 
@@ -38,6 +38,6 @@ Violations may lead to access revocation or legal action.
 
 ## 🏛️ Legal Contact
 **ShopLeadAI / ShopLead Technologies (EU)**  
-📧 [hello@shoplead.ai](mailto:hello@shop-lead.ai)  
-🌍 [https://shoplead.ai](https://shop-lead.ai)  
+📧 [hello@shoplead.ai](mailto:hello@shoplead.ai)  
+🌍 [https://shoplead.ai](https://shoplead.ai)  
 © 2025 ShopLeadAI™ — All Rights Reserved.
