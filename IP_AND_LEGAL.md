@@ -38,6 +38,6 @@ Violations may lead to access revocation or legal action.
 
 ## 🏛️ Legal Contact
 **ShopLeadAI / ShopLead Technologies (EU)**  
-📧 [hello@shop-lead.ai](mailto:hello@shop-lead.ai)  
-🌍 [https://shop-lead.ai](https://shop-lead.ai)  
+📧 [hello@shoplead.ai](mailto:hello@shop-lead.ai)  
+🌍 [https://shoplead.ai](https://shop-lead.ai)  
 © 2025 ShopLeadAI™ — All Rights Reserved.
